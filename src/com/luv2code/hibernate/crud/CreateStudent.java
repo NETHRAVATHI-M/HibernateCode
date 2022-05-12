@@ -4,7 +4,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-
+//to add a student details
 public class CreateStudent {
 
 	public static void main(String[] args) {
